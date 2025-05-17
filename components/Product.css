@@ -1,0 +1,22 @@
+.product-container {
+  width: 80%;
+  margin: 2rem auto;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.product-image {
+  width: 300px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.product-container h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.product-container p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
